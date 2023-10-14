@@ -1,0 +1,8 @@
+package com.finalproject;
+
+public class Customer {
+    public String name;
+    public String phoneNumber;
+    public String email;
+    public Stylist preferredStylist;
+}
